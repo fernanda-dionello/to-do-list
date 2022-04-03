@@ -27,7 +27,6 @@ class List:
     
     def getTask(self, position):
         position = int(position)
-        # print('position', position)
         if position < 0 or position > self.size:
             print ("This position doesn't exist.")
             return
@@ -36,7 +35,6 @@ class List:
             currentNode = self.start
             while True:
                 if startPosition == (position-1):
-                    # print('currentNode.text', currentNode.text)
                     return currentNode.text
                 currentNode = currentNode.next
                 startPosition += 1
