@@ -7,5 +7,3 @@
 ## Description
 
 - To-do-list applying linked list with CRUD functions
-
-## Test
