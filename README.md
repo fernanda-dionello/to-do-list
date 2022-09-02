@@ -1,7 +1,11 @@
 # to-do-list
 
 ## Tech Stack
-* Python
+
+- Python
 
 ## Description
-* To-do-list applying linked list with CRUD functions
+
+- To-do-list applying linked list with CRUD functions
+
+## Test
